@@ -5,8 +5,15 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-
+Upload your screenshot and the file must be in jpeg format and select start building your image map.
 ### Step 2:
+Then, press click to continue and you will get your image on screen.
+### Step 3:
+After that,right click on your mouse for menu and click on create rect  and select the location you want.
+### Step 4:
+Give url name and title and then save it.
+### Step 5:
+Identify a minimum of four or five locations and save it.
 
 ## Code:
 ```
