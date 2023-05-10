@@ -61,6 +61,8 @@ Identify a minimum of four or five locations and save it.
     </body>
 </html>
 ```
+## HTML validator:
+![image](https://github.com/sivaram-R/places-around-me/assets/121165794/8bc3cf1a-52c9-431c-a9a9-33f0a03a551f)
 
 ## Output:
 
