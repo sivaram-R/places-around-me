@@ -56,9 +56,9 @@ To develop a website to display details about the places around my house.
 ```
 
 ## Output:
-![2023-05-10 (4)](https://github.com/sivaram-R/places-around-me/assets/121165794/5ecbd0fd-d4de-47ec-886e-1b7aad2bea4c)
-![2023-05-10](https://github.com/sivaram-R/places-around-me/assets/121165794/7577758a-61a0-424f-b1b8-098f9cd63e3d)
 
+![2023-05-10](https://github.com/sivaram-R/places-around-me/assets/121165794/7577758a-61a0-424f-b1b8-098f9cd63e3d)
+![2023-05-10 (4)](https://github.com/sivaram-R/places-around-me/assets/121165794/5ecbd0fd-d4de-47ec-886e-1b7aad2bea4c)
 
 ## Result:
 places near me is marked and information is got by clicking icons
